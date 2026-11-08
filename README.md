@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I'm **SlanderMahdi**, a developer passionate about building software, game server systems, web applications and creative digital experiences.
+I'm **Aureliss**, a developer passionate about building software, game server systems, web applications and creative digital experiences.
 
 💻 Full Stack Developer
 
